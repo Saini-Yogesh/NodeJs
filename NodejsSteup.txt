@@ -1,0 +1,9 @@
+-first install nodeJs
+-make a folder
+-make a file index.nodeJs
+-run command "node . "/ RUN "nodemon index.js"
+-then "git init"
+-give that information that he required
+-download express pakage "npm install express"
+-download dec dependency "npm install --save-dev nodemon"
+-continue 
